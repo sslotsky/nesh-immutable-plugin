@@ -1,0 +1,14 @@
+{
+  "name": "nesh-immutable-plugin",
+  "version": "1.0.0",
+  "description": "Plugin for using Immutable.js modules in nesh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Slotsky",
+  "license": "MIT",
+  "dependencies": {
+    "immutable": "^3.8.1"
+  }
+}
